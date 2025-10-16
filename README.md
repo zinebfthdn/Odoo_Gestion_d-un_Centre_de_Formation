@@ -17,7 +17,8 @@ L’objectif est de concevoir un **système d’information (SI)** complet pour 
 
 ## 🗂️ Structure du Module
 ![Structure](images/s.png)
-![Structure Détail](images/SS.png)
+
+![Structure Détail](images/ss.png)
 
 ---
 
